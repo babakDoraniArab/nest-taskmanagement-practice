@@ -4,4 +4,6 @@ import { TaskService } from 'src/domain/services/task/task.service';
 @Module({
     providers: [TaskService]
 })
-export class TaskModule {}
+export class TaskModule {
+    
+}
