@@ -12,4 +12,5 @@ export class Photo {
 
   @Column('text')
   description: string;
-}
+
+ }
