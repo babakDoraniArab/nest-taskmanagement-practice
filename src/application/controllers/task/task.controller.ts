@@ -13,6 +13,6 @@ export class TaskController {
   //   }
   @Get()
   test() {
-    return console.log('test');
+     console.log('test');
   }
 }
